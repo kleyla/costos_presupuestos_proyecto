@@ -1,0 +1,163 @@
+<table width="590" border="0">
+  <tr>
+    <td><div align="center"><font face="Arial" color="#ffe62f"><big><font color="#DF0909"><strong><font size="4" face="Verdana">Lista 
+        de Alumnos</font></strong></font></big></font></div></td>
+  </tr>
+</table>
+<table border="0" cellpadding="3" cellspacing="0" width="590">
+  <tr>
+    <td width="0" valign="top" align="left"></td>
+    <td width="639" align="left" valign="top"><table border="0" cellpadding="0"
+    cellspacing="0" width="590">
+        <tr>
+          <td height="10"></td>
+          <td height="10"></td>
+        </tr>
+        <tr> 
+          <td width="118"><font color="#DF0909" size="1" face="Verdana"><small><strong>SIGLA-GRUPO:</strong></small></font></td>
+          <td width="472"><font color="#000066" face="verdana" size="2"><small>&nbsp; 
+            ELC002 - SC (COSTOS Y PRESUPUESTOS                             )</small></font></td>
+        </tr>
+        <tr> 
+          <td width="118"><font color="#DF0909" size="1" face="Verdana"><small><strong>GESTION:</strong></small></font></td>
+          <td width="472"><font color="#000066" face="verdana" size="2"><small>&nbsp; 
+            1 -2019</small></font></td>
+        </tr>
+        <tr> 
+          <td height="5"></td>
+          <td height="5"></td>
+        </tr>
+      </table>
+
+      <table border="1" cellpadding="0" cellspacing="0" width="590">
+        <tr bgcolor="#DF0909"> 
+          <td width="25" align="center" ><strong><font color="#000066"><small><font color="#FFFFFF" size="1" face="Verdana">NRO</font></small></font></strong></td>
+          <td width="79" align="center" ><strong><font color="#000066"><small><font color="#FFFFFF" size="1" face="Verdana">REGISTRO</font></small></font></strong></td>
+          <td width="307" align="center"><strong><font color="#000066"><small><font color="#FFFFFF" size="1" face="Verdana">NOMBRES</font></small></font></strong></td>
+          <td width="73" align="center" ><strong><font color="#000066"><small><font color="#FFFFFF" size="1" face="Verdana">CARR</font></small></font></strong></td>
+          <td width="50" align="center" ><strong><font color="#FFFFFF" size="1" face="Verdana"><small>PLAN</small></font></strong></td>
+          <td width="52" align="center" ><strong><font color="#FFFFFF" size="1" face="Verdana"><small>VER PERFIL</small></font></strong></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">1</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>213068516</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>CANDIA FLORES FERNANDO                                 </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=213068516&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">2</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>213039222</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>CHOQUE ANCALLE YOSELIN TANIA                           </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=213039222&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">3</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>213073943</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>COLQUE ARENAS ARIEL RUBEN                              </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=213073943&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>214038998</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>FERRUFINO PAZ JORGE RICARDO                            </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=214038998&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">5</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>214134271</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>IBARRA BLANCO JORGE LUIS                               </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=214134271&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">6</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>217026044</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>LEDESMA MARISCAL DIEGO ULISES                          </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=217026044&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">7</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>216027365</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>LLANOS VEDIA LIZ SOLEDAD                               </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=216027365&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">8</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>210059818</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>LOPEZ MU¥OZ CARLOS EDUARDO                             </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=210059818&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">9</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>213095696</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>MAMANI CORTEZ LUIS ALBERTO                             </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=213095696&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">10</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>212138685</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>MORRORE AMACOINE BEATRIZ                               </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=212138685&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">11</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>217040829</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>QUIROZ SANCHEZ CRISTHIAN MARTIN                        </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=217040829&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">12</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>211031658</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>RAMIREZ CORONEL RICARDO                                </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=211031658&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">13</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>200955561</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>SALGUERO CASTILLO ERICK                                </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=200955561&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">14</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>215165330</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>SUXO ALANEZ MADISON MITZY                              </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=215165330&tipo=1" /></td>
+        </tr>
+                <tr bgcolor="#DDE8FF"> 
+          <td width="25"  align="center"><strong><font color="#000066"><small><small><font face="arial">15</font></small></small></font></strong></td>
+          <td width="79" ><strong><font color="#000066" face="arial"><small><small>214026167</small></small></font></strong></td>
+          <td width="307"><strong><font color="#000066" face="arial"><small><small>TINTAYA MIRANDA JOSUE                                  </small></small></font></strong></td>
+          <td width="73" align="center"><strong><font color="#000066"><small><small><font face="arial">187</font></small></small></font></strong></td>
+          <td width="50" align="center"><strong><font color="#000066"><small><small><font face="arial">4</font></small></small></font></strong></td>
+          <td width="52" align="center"><img width='100' height='100' src="http://academico.uagrm.edu.bo/biometrico/datosest/wRetornarImagen.aspx?reg=214026167&tipo=1" /></td>
+        </tr>
+              </table> </td>
+  </tr>
+</table>
